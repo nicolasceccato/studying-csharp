@@ -12,3 +12,10 @@ double altura = 1.77;
 Console.WriteLine(valor);
 
 Console.WriteLine(altura.ToString("0.00000"));
+
+DateTime data = DateTime.Now;
+data.ToString("yyyy MMMM dd");
+
+int a = Convert.ToInt32("5");
+
+Console.WriteLine(a);

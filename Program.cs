@@ -17,5 +17,7 @@ DateTime data = DateTime.Now;
 data.ToString("yyyy MMMM dd");
 
 int a = Convert.ToInt32("5");
+string b = Convert.ToString(null);
 
 Console.WriteLine(a);
+Console.WriteLine(b);

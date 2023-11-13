@@ -1,0 +1,15 @@
+D:\Projetos pessoais\studying-csharp\studying-csharp\bin\Debug\net6.0\studying-csharp.exe
+D:\Projetos pessoais\studying-csharp\studying-csharp\bin\Debug\net6.0\studying-csharp.deps.json
+D:\Projetos pessoais\studying-csharp\studying-csharp\bin\Debug\net6.0\studying-csharp.runtimeconfig.json
+D:\Projetos pessoais\studying-csharp\studying-csharp\bin\Debug\net6.0\studying-csharp.dll
+D:\Projetos pessoais\studying-csharp\studying-csharp\bin\Debug\net6.0\studying-csharp.pdb
+D:\Projetos pessoais\studying-csharp\studying-csharp\obj\Debug\net6.0\studying-csharp.csproj.AssemblyReference.cache
+D:\Projetos pessoais\studying-csharp\studying-csharp\obj\Debug\net6.0\studying-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos pessoais\studying-csharp\studying-csharp\obj\Debug\net6.0\studying-csharp.AssemblyInfoInputs.cache
+D:\Projetos pessoais\studying-csharp\studying-csharp\obj\Debug\net6.0\studying-csharp.AssemblyInfo.cs
+D:\Projetos pessoais\studying-csharp\studying-csharp\obj\Debug\net6.0\studying-csharp.csproj.CoreCompileInputs.cache
+D:\Projetos pessoais\studying-csharp\studying-csharp\obj\Debug\net6.0\studying-csharp.dll
+D:\Projetos pessoais\studying-csharp\studying-csharp\obj\Debug\net6.0\refint\studying-csharp.dll
+D:\Projetos pessoais\studying-csharp\studying-csharp\obj\Debug\net6.0\studying-csharp.pdb
+D:\Projetos pessoais\studying-csharp\studying-csharp\obj\Debug\net6.0\studying-csharp.genruntimeconfig.cache
+D:\Projetos pessoais\studying-csharp\studying-csharp\obj\Debug\net6.0\ref\studying-csharp.dll

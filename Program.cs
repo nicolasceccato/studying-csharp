@@ -1,5 +1,5 @@
 ﻿using studying_csharp.Models;
-
+/*
 Pessoa p = new Pessoa();
 p.Nome = "Ronaldo";
 p.Idade = 200;
@@ -33,4 +33,23 @@ else if (2 == 1)
 else
 {
     Console.WriteLine("2 é maior que 1");
+}
+*/
+
+Console.WriteLine("Digite uma letra: ");
+string letra = Console.ReadLine();
+
+switch (letra)
+{
+    case "a":
+    case "e":
+    case "i":
+    case "o":
+    case "u":
+        Console.WriteLine("VOGAL!!!!");
+        break;    
+    default:
+        Console.WriteLine("Nao vogal!");
+        break;
+        
 }

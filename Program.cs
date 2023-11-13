@@ -21,3 +21,16 @@ string b = Convert.ToString(null);
 
 Console.WriteLine(a);
 Console.WriteLine(b);
+
+if (1 > 2)
+{
+    Console.WriteLine("1 é maior que 2");
+}
+else if (2 == 1)
+{
+    Console.WriteLine("2 é igual a 1");
+}
+else
+{
+    Console.WriteLine("2 é maior que 1");
+}

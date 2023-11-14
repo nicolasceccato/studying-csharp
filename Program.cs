@@ -60,3 +60,17 @@ calculadora.Subtrair(10.5, 11);
 calculadora.Dividir(10.5, 11);
 calculadora.Multiplicar(10.5, 11);
 calculadora.Elevar(10.5, 11);
+calculadora.Coseno(0);
+calculadora.Coseno(90);
+calculadora.Coseno(180);
+calculadora.Coseno(360);
+calculadora.Seno(0);
+calculadora.Seno(90);
+calculadora.Seno(180);
+calculadora.Seno(360);
+calculadora.Tangente(0);
+calculadora.Tangente(90);
+calculadora.Tangente(180);
+calculadora.Tangente(360);
+
+calculadora.RaizQuadrada(4);

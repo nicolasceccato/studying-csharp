@@ -47,9 +47,16 @@ switch (letra)
     case "o":
     case "u":
         Console.WriteLine("VOGAL!!!!");
-        break;    
+        break;
     default:
         Console.WriteLine("Nao vogal!");
         break;
-        
+
 }
+
+Calculadora calculadora = new Calculadora();
+calculadora.Somar(10.5, 11);
+calculadora.Subtrair(10.5, 11);
+calculadora.Dividir(10.5, 11);
+calculadora.Multiplicar(10.5, 11);
+calculadora.Elevar(10.5, 11);

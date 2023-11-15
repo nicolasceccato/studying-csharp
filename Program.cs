@@ -74,3 +74,4 @@ calculadora.Tangente(180);
 calculadora.Tangente(360);
 
 calculadora.RaizQuadrada(4);
+calculadora.RaizQuadrada(9);

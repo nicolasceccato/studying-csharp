@@ -75,3 +75,15 @@ calculadora.Tangente(360);
 
 calculadora.RaizQuadrada(4);
 calculadora.RaizQuadrada(9);
+
+
+int[] arrayInteiros = new int[3];
+arrayInteiros[0] = 0;
+arrayInteiros[1] = 1;
+arrayInteiros[2] = 2;
+
+
+for (int i = 0; i < arrayInteiros.Length; i++)
+{
+    Console.WriteLine($"Posicao {i} = {arrayInteiros[i]}");
+}
